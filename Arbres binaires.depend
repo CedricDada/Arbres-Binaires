@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1623972235 source:d:\+enspy\msp1\semestre 2\c_programs\arbres binaires\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonctions arbres.h"
+
+1623972124 source:d:\+enspy\msp1\semestre 2\c_programs\arbres binaires\fonctions arbres.c
+	"fonctions arbres.h"
+
+1623970784 d:\+enspy\msp1\semestre 2\c_programs\arbres binaires\fonctions arbres.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1684991396 source:e:\gi\perso gi\sem 2\algorithmique\arbres binaires\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonctions arbres.h"
+
+1684981008 e:\gi\perso gi\sem 2\algorithmique\arbres binaires\fonctions arbres.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1684991390 source:e:\gi\perso gi\sem 2\algorithmique\arbres binaires\fonctions arbres.c
+	"fonctions arbres.h"
+
